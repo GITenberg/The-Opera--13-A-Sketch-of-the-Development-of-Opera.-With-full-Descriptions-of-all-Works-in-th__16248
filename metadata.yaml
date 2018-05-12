@@ -1,0 +1,39 @@
+_repo: The-Opera--13-A-Sketch-of-the-Development-of-Opera.-With-full-Descriptions-of-all-Works-in-th__16248
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Fuller-Maitland, J. A. (John Alexander)
+    alias: Fuller-Maitland, John Alexander
+    birthdate: 1856
+    deathdate: 1936
+    gutenberg_agent_id: '6574'
+    url: http://www.gutenberg.org/2009/agents/6574
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+description: With an introduction by J. A. Fuller-Maitland
+edition_note: 3rd edition, revised and enlarged
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16248'
+language: en
+publication_note: 'Philadelphia: J.B. Lippincott Co., 1907'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera'
+- !lcc 'ML'
+title: "The Opera\r\nA Sketch of the Development of Opera. With full Descriptions\
+  \ of all Works in the Modern Repertory."
+url: http://www.gutenberg.org/ebooks/16248
